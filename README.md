@@ -1,1 +1,1 @@
-# Scribble Prompts with SAM Promote Accurate Weakly Supervised Salient Object Detection
+# Scribble Prompts Promote Accurate Weakly Supervised Salient Object Detection with Segment Anything Model (SAM)
